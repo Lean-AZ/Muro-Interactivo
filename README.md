@@ -15,5 +15,7 @@ npm run dev
 ```
 
 Abre en tu navegador y prueba.
+![Pantalla principal del Muro](muro.png)
+![Formulario de login](/img/image.png)
 
 
