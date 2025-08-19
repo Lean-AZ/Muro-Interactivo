@@ -1,10 +1,10 @@
-# Muro Interactivo (versión LocalStorage)
+# Muro Interactivo 
 
-Este proyecto funciona **sin backend** ni Firebase. Todo se guarda en el **localStorage** del navegador.
+Este proyecto funciona
 
 ### Funcionalidades
 - Ver publicaciones (público)
-- Crear cuenta de usuario (se guarda en localStorage con clave en texto plano, solo para demo)
+- Crear cuenta de usuario 
 - Iniciar sesión
 - Publicar nuevos posts (solo autenticados)
 
@@ -16,4 +16,4 @@ npm run dev
 
 Abre en tu navegador y prueba.
 
-⚠️ Nota: La clave de usuario se guarda en **texto plano** en `localStorage` (no es seguro). Esto es solo para práctica local.
+
